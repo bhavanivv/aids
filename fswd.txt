@@ -1,0 +1,4 @@
+Open SourceGit is an open-source tool. It is released under the GPL (General Public License) license.
+ScalableGit is scalable, which means when the number of users increases, the Git can easily handle such situations.
+DistributedOne of Git's great features is that it is distributed. Distributed means that instead of switching the project to another machine, we can create a "clone" of the entire repository. Also, instead of just having one central repository that you send changes to, every user has their own repository that contains the entire commit history of the project. We do not need to connect to the remote repository; the change is just stored on our local repository. If necessary, we can push these changes to a remote repository.
+
