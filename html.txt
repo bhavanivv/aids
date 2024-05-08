@@ -15,6 +15,4 @@ Git allows you to see the full history of every commit.
 You can revert back to any previous commit.
 Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
 Git configuration Level:
---system
 -- global
---local
